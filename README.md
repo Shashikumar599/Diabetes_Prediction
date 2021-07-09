@@ -1,5 +1,5 @@
 # Diabetes_Prediction
-#This project aim at diabetes prediction ,experimenting with different models.
+This project aim at diabetes prediction ,experimenting with different models./n
 Data was collected from kaggle named as Pima Indian Diabetes Dataset.
 Exploratorry data analysis done to have insights on dataset mentioned in code.
 In data preprocessing missing values handled and splitted it into test and training set.
